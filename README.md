@@ -35,8 +35,8 @@
 
 | Gyro      | Keyboard Alias | Binding     | Status
 | --------- | -------------- | ----------- | ---
-| Gyro Up   | Up Arrow       | Quick Stats |
-| Gyro Down | Down Arrow     | Quick Map   |
+| Gyro Up   | Up Arrow       | Quick Stats | ✅
+| Gyro Down | Down Arrow     | Quick Map   | ✅
 
 ---
 
