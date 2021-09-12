@@ -25,8 +25,8 @@
 
 | Stick                 | Binding           | Status
 | --------------------- | ----------------- | ---
-| Control Pad Area      | Various Favorites |
-| Control Pad (Click)   | Favorites Menu    |
+| Control Pad Area      | Various Favorites | ✅
+| Control Pad (Click)   | Favorites Menu    | ✅
 | Camera Pad Area       | Camera Control    | ✅
 | Camera Pad (Click)    | Third Person Mode | ✅
 | Control Stick         | Move              | ✅
