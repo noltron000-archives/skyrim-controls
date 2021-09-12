@@ -10,7 +10,8 @@
 //
 // Blank lines signify the start of a new input context.
 // See ControlMap.h for more details on input contexts.
-//
+
+// Event Name //	// Keyboard Button ID //	// Mouse Button ID //	// Gamepad Button ID //	// Allow Keyboard? //	// Allow Mouse? //	// Allow Gamepad? //	// Event Group ID //
 // Main Gameplay
 Forward	0x11	0xff	0xff	1	1	0	0x801
 Back	0x1f	0xff	0xff	1	1	0	0x801

@@ -1,5 +1,8 @@
 // 1st field: Gamepad button name.  DO NOT ALTER!  This field is used to ID events in the code
 // 2nd: Key hardware value.  Matches XINPUT_GAMEPAD_* enum values on 360
+
+// Button Name //	// Hardware Value //
+// Gamepad Buttons
 Up	0x0001
 Down	0x0002
 Left	0x0004
@@ -16,6 +19,7 @@ Right	0x0008
 360_Y	0x8000
 
 // NOTE: The below hardware values are arbitrary, since there are no XINPUT_GAMEPAD values for them
+// Non-Standard Gamepad Buttons
 360_LT	0x0009
 360_RT	0x000a
 360_LS	0x000b

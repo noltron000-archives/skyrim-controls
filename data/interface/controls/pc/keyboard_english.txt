@@ -1,6 +1,9 @@
 // 1st field: Keyboard key name, e.g. "Spacebar".  DO NOT ALTER!  This field is used to ID events in the code
 // 2nd: Key hardware value.  Matches DIK_* virtual key codes on PC
 // 3rd (Optional): Flash key code.  Used by Scaleform IO.  Not every key has a Flash key code.
+
+// Key Name //	// Hardware Value //	// Flash Code //
+// Keyboard Keys
 Esc	0x01	27
 1	0x02	49
 2	0x03	50
