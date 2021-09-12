@@ -21,7 +21,7 @@
 | Right Trigger        |                | Right Attack              | ✅
 | Right Trigger (Full) |                | Right Power Attack        | ❌
 | Right Bumper         |                | Jump                      |
-| Right Paddle         | End            | Special Power (Shout)     |
+| Right Paddle         | End            | Special Power (Shout)     | ✅
 
 | Stick                 | Binding           | Status
 | --------------------- | ----------------- | ---
@@ -37,3 +37,8 @@
 | --------- | -------------- | ----------- | ---
 | Gyro Up   | Up Arrow       | Quick Stats |
 | Gyro Down | Down Arrow     | Quick Map   |
+
+---
+
+Cause for Concern:
+- ChargeItem
