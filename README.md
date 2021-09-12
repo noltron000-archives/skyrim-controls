@@ -20,7 +20,7 @@
 | Left Paddle          |                | Take Everything (Turbo A) | ✅
 | Right Trigger        |                | Right Attack              | ✅
 | Right Trigger (Full) |                | Right Power Attack        | ❌
-| Right Bumper         |                | Jump                      |
+| Right Bumper         |                | Jump                      | ✅
 | Right Paddle         | End            | Special Power (Shout)     | ✅
 
 | Stick                 | Binding           | Status
