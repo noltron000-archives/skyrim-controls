@@ -10,7 +10,7 @@
 | A      | Accept / Interact   | ✅
 | B      | Back / Reject       |
 | X      | Sheathe / Unsheathe | ✅
-| Y      | Wait Menu           |
+| Y      | Wait Menu           | ✅
 
 | Button               | Keyboard Alias | Binding                   | Status
 | -------------------- | -------------- | ------------------------- | ---
