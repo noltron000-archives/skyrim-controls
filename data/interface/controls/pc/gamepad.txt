@@ -5,9 +5,9 @@
 // *B = **** Bumper
 // *S = **** Stick
 // *3 = **** Stick Button
-
+//
 // Button Name //	// Hardware Value //
-
+//
 // Gamepad Buttons
 Up	0x0001
 Down	0x0002

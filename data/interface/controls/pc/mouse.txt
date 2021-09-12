@@ -1,9 +1,9 @@
 // 1st field: Mouse button name.  DO NOT ALTER!  This field is used to ID events in the code
 // 2nd: Key hardware value.
 // 3rd: Flash key code.  Used by Scaleform IO.  Not every key has a Flash key code.
-
+//
 // Button Name //	// Hardware Value //	// Flash Code //
-
+//
 // Mouse Buttons
 Mouse1	0x0	0
 Mouse2	0x1	1
