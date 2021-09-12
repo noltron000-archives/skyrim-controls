@@ -3,7 +3,7 @@
 | Button | Binding        | Status
 | ------ | -------------- | ---
 | Start  | Game Menu      | ✅
-| Select | Character Menu |
+| Select | Character Menu | ✅
 
 | Button | Binding             | Status
 | ------ | ------------------- | ---
